@@ -17,7 +17,7 @@ Es para medir cúanto trabajo puede completar el equipo en un sprint.
 - [[Story Points]]
 - [[Planning Poker]]
 - [[Sprint Planning]]
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum]]
 
 ## 💡 Personal Insight 
 - 

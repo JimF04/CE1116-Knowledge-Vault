@@ -20,7 +20,7 @@ Es el responsable de maximizar el valor del producto. Prioriza el Product Backlo
 - [[Product Backlog]]
 - [[User Story]]
 - [[Sprint Planning]]
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum]]
 
 ## 💡 Personal Insight 
 - 
