@@ -8,59 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "#ingeniería-de-software",
+      "query": "tag:#principios_de_modelado  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 7462994
       }
     },
     {
-      "query": "#requerimientos",
+      "query": "tag:#conceptos_IA  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "#arquitectura",
-      "color": {
-        "a": 1,
-        "rgb": 14754672
-      }
-    },
-    {
-      "query": "#pruebas",
-      "color": {
-        "a": 1,
-        "rgb": 45296
-      }
-    },
-    {
-      "query": "#diseño",
-      "color": {
-        "a": 1,
-        "rgb": 12472544
-      }
-    },
-    {
-      "query": "#infrastructura",
-      "color": {
-        "a": 1,
-        "rgb": 14754595
-      }
-    },
-    {
-      "query": "#mantenimiento",
-      "color": {
-        "a": 1,
-        "rgb": 2979323
-      }
-    },
-    {
-      "query": "#implementación",
-      "color": {
-        "a": 1,
-        "rgb": 6434415
+        "rgb": 3692789
       }
     }
   ],

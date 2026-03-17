@@ -36,6 +36,114 @@
             }
           },
           {
+            "id": "c172e01055614966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Conceptos_IA/Tokenización.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tokenización"
+            }
+          },
+          {
+            "id": "deb01abbcee29981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Conceptos_IA/Embeddings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Embeddings"
+            }
+          },
+          {
+            "id": "3d05a23542d1ecc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Conceptos_IA/Redes Neuronales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redes Neuronales"
+            }
+          },
+          {
+            "id": "5f991f9f76f00f36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Conceptos_IA/Función de Activación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Función de Activación"
+            }
+          },
+          {
+            "id": "ad581f755f32e251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Conceptos_IA/Tokenización.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tokenización"
+            }
+          },
+          {
+            "id": "68a9f46be2103fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Conceptos_IA/Mecanismo de Atención.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mecanismo de Atención"
+            }
+          },
+          {
+            "id": "cced3fbf6b34805f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Conceptos_IA/Ventana de Contexto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ventana de Contexto"
+            }
+          },
+          {
+            "id": "a8aec8d685e32b44",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
             "id": "8ee79ba50f8da2d1",
             "type": "leaf",
             "state": {
@@ -288,7 +396,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -437,8 +545,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb259287970b695e",
+  "active": "a8aec8d685e32b44",
   "lastOpenFiles": [
+    "CE1116/02_Conceptos_IA/Ventana de Contexto.md",
+    "CE1116/02_Conceptos_IA/Tokenización.md",
+    "CE1116/02_Conceptos_IA/Redes Neuronales.md",
+    "CE1116/02_Conceptos_IA/Mecanismo de Atención.md",
+    "CE1116/02_Conceptos_IA/Función de Activación.md",
+    "CE1116/02_Conceptos_IA/Embeddings.md",
+    "CE1116/02_Conceptos_IA/Arquitectura Transformer.md",
+    "CE1116/02_Conceptos_IA/Alucinaciones.md",
+    "CE1116/01_Principios_de_Modelado/Filosofía Ágil.md",
+    "CE1116/01_Principios_de_Modelado/Velocity.md",
     "CE1116/01_Principios_de_Modelado/User Story.md",
     "CE1116/01_Principios_de_Modelado/Taskboard.md",
     "CE1116/01_Principios_de_Modelado/Story Points.md",
@@ -454,25 +572,15 @@
     "CE1116/01_Principios_de_Modelado/Product Owner.md",
     "CE1116/01_Principios_de_Modelado/Product Backlog.md",
     "CE1116/01_Principios_de_Modelado/Planning Poker.md",
-    "CE1116/01_Principios_de_Modelado/Filosofía Ágil.md",
     "CE1116/01_Principios_de_Modelado/Definition of Done (DoD).md",
     "CE1116/02_Conceptos_IA",
-    "CE1116/08_Templates/Atomic Template.md",
     "CE1116/01_Principios_de_Modelado",
-    "CE1116/01_Procesos de Desarrollo/Scrum.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/08_Templates",
-    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
     "CE1116/07_Mantenimiento",
-    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
     "CE1116/06_Despliegue e Infrastructura",
-    "CE1116/05_Pruebas/Pruebas Unitarias.md",
     "CE1116/05_Pruebas",
-    "CE1116/04_Implementación/Estándares de Programación.md",
     "CE1116/04_Implementación",
-    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
     "CE1116/03_Arquitectura y Diseño",
-    "CE1116/02_Requirimientos/Entrevistas.md",
     "CE1116/02_Requirimientos",
     "CE1116/01_Procesos de Desarrollo",
     "Untitled.canvas"
