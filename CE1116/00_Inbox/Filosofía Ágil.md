@@ -15,7 +15,7 @@ Es una forma de trabajar que entrega valor en ciclos cortos, permite adaptarse r
 - Flexibilidad ante cambios
 
 ## 🔗 Connections
-- [[Scrum|Scrum]]
+- [[CE1116/00_Inbox/Scrum|Scrum]]
 - [[User Story]]
 - [[Product Owner]]
 - [[Product Backlog]]

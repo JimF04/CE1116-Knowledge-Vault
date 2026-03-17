@@ -17,7 +17,7 @@ Es una técnica en donde se negocia la estimación de esfuerzo para cada tarea.
 - [[Story Points]]
 - [[Velocity]]
 - [[User Story]]
-- [[Scrum|Scrum]]
+- [[CE1116/00_Inbox/Scrum|Scrum]]
 
 ## 💡 Personal Insight
 - 

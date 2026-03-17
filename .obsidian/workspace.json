@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CE1116/00_Inbox/Definition of Done (DoD).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "b1704ea0a7faba81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/02_Conceptos_IA/Tokenización.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tokenización"
+              "title": "Definition of Done (DoD)"
             }
           },
           {
@@ -41,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/01_Principios_de_Modelado/Velocity.md",
+                "file": "CE1116/00_Inbox/Stakeholder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Velocity"
+              "title": "Stakeholder"
             }
           },
           {
@@ -301,8 +287,7 @@
               "title": "Definition of Done (DoD)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -451,36 +436,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84d3235176a5ae4b",
+  "active": "9fea8fb6a24cd821",
   "lastOpenFiles": [
-    "CE1116/02_Conceptos_IA",
-    "CE1116/01_Principios_de_Modelado/User Story.md",
-    "CE1116/02_Conceptos_IA/Tokenización.md",
-    "CE1116/01_Principios_de_Modelado/Taskboard.md",
-    "CE1116/01_Principios_de_Modelado/Story Points.md",
-    "CE1116/01_Principios_de_Modelado/Stakeholder.md",
-    "CE1116/01_Principios_de_Modelado/Sprint Planning.md",
-    "CE1116/01_Principios_de_Modelado/Sprint Backlog.md",
-    "CE1116/01_Principios_de_Modelado/Scrum.md",
-    "CE1116/01_Principios_de_Modelado/Requerimientos No Funcionales.md",
-    "CE1116/01_Principios_de_Modelado/Requerimientos Funcionales.md",
-    "CE1116/01_Principios_de_Modelado/Requerimientos de Sistema.md",
-    "CE1116/01_Principios_de_Modelado/Requerimientos de Negocio.md",
-    "CE1116/01_Principios_de_Modelado/Pruebas Funcionales.md",
-    "CE1116/01_Principios_de_Modelado/Product Owner.md",
-    "CE1116/01_Principios_de_Modelado/Filosofía Ágil.md",
-    "CE1116/01_Principios_de_Modelado/Planning Poker.md",
-    "CE1116/01_Principios_de_Modelado/Product Backlog.md",
-    "CE1116/01_Principios_de_Modelado/Definition of Done (DoD).md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-    "Sin título.md",
-    "CE1116/01_Principios_de_Modelado",
-    "CE1116/08_Templates/Atomic Template.md",
-    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
-    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
-    "CE1116/05_Pruebas/Pruebas Unitarias.md",
-    "CE1116/Tarea_2",
+    "CE1116/01_Procesos de Desarrollo/Scrum.md",
     "README.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
+    "CE1116/08_Templates/Atomic Template.md",
+    "CE1116/00_Inbox/Definition of Done (DoD).md",
+    "CE1116/00_Inbox/Requerimientos de Negocio.md",
+    "CE1116/00_Inbox/Product Owner.md",
+    "CE1116/00_Inbox/Filosofía Ágil.md",
+    "CE1116/00_Inbox/Product Backlog.md",
+    "CE1116/00_Inbox/User Story.md",
+    "CE1116/00_Inbox/Taskboard.md",
+    "CE1116/00_Inbox/Pruebas Funcionales.md",
+    "CE1116/00_Inbox/Planning Poker.md",
+    "CE1116/00_Inbox/Story Points.md",
+    "CE1116/00_Inbox/Velocity.md",
+    "CE1116/00_Inbox/Sprint Backlog.md",
+    "CE1116/00_Inbox/Sprint Planning.md",
+    "CE1116/00_Inbox/Scrum.md",
+    "CE1116/00_Inbox/Requerimientos No Funcionales.md",
+    "CE1116/00_Inbox/Requerimientos Funcionales.md",
+    "CE1116/00_Inbox/Requerimientos de Sistema.md",
+    "CE1116/00_Inbox/Stakeholder.md",
+    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
+    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
+    "CE1116/02_Requirimientos/Entrevistas.md",
+    "CE1116/04_Implementación/Estándares de Programación.md",
     "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
@@ -489,6 +472,8 @@
     "Untitled",
     "CE1116/06_Despliegue e Infrastructura",
     "CE1116/05_Pruebas",
-    "CE1116/04_Implementación"
+    "CE1116/04_Implementación",
+    "CE1116/03_Arquitectura y Diseño",
+    "CE1116/02_Requirimientos"
   ]
 }

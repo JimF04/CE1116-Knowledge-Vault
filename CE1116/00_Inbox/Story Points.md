@@ -18,7 +18,7 @@ Unidad de medida para estimar la complejidad, esfuerzo y riesgo de una historia 
 - [[Planning Poker]]
 - [[Velocity]]
 - [[User Story]]
-- [[Scrum|Scrum]]
+- [[CE1116/00_Inbox/Scrum|Scrum]]
 
 ## 💡 Personal Insight 
 - 

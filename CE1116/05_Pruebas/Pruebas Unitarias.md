@@ -1,8 +1,9 @@
 ---
-Fecha de creación: 2026-03-17 14:54
-Fecha de Modificación: 2026-03-17 14:54
+Fecha de creación: 2025-08-05 00:12
+Fecha de Modificación: 2025-08-05 00:12
 tags:
-Tema:
+  - "#pruebas"
+Tema: pruebas-automatizadas
 ---
 
 
@@ -13,7 +14,7 @@ Tema:
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[Estándares de Programación]]
 
 ## 💡 Personal Insight (Opcional)
 - 
