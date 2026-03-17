@@ -1,7 +1,8 @@
 ---
 Fecha de creación: 2026-02-21 00:22
 Fecha de Modificación: 2026-02-21 00:22
-tags: 
+tags:
+  - principios_de_modelado
 Tema:
 ---
 
@@ -14,7 +15,7 @@ Tablero visual donde se muestran las tareas del sprint en categorías como: "To 
 
 ## 🔗 Connections
 - [[Sprint Backlog]]
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum]]
 - [[Definition of Done (DoD)]]
 - [[User Story]]
 

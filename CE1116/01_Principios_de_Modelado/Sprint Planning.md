@@ -1,7 +1,8 @@
 ---
 Fecha de creación: 2026-02-21 00:26
 Fecha de Modificación: 2026-02-21 00:26
-tags: 
+tags:
+  - principios_de_modelado
 Tema:
 ---
 
