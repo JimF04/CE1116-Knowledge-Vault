@@ -27,372 +27,124 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/01_Principios_de_Modelado/Velocity.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Velocity"
+              "title": "README"
             }
           },
           {
-            "id": "c172e01055614966",
+            "id": "bc72a5b6dede7167",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/02_Conceptos_IA/Tokenización.md",
+                "file": "CE1116/03_Conceptos_Nube/Cloud Público.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tokenización"
+              "title": "Cloud Público"
             }
           },
           {
-            "id": "deb01abbcee29981",
+            "id": "cabdf1f7dae2bb8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/02_Conceptos_IA/Embeddings.md",
+                "file": "CE1116/03_Conceptos_Nube/Virtual Private Cloud (VPC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Embeddings"
+              "title": "Virtual Private Cloud (VPC)"
             }
           },
           {
-            "id": "3d05a23542d1ecc5",
+            "id": "72be29ed5cbe3ec0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/02_Conceptos_IA/Redes Neuronales.md",
+                "file": "CE1116/03_Conceptos_Nube/Cloud Híbrido (Hybrid Cloud).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redes Neuronales"
+              "title": "Cloud Híbrido (Hybrid Cloud)"
             }
           },
           {
-            "id": "5f991f9f76f00f36",
+            "id": "a3927dd35d81a425",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/02_Conceptos_IA/Función de Activación.md",
+                "file": "CE1116/03_Conceptos_Nube/Escalamiento horizontal y vertical en el cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Función de Activación"
+              "title": "Escalamiento horizontal y vertical en el cloud"
             }
           },
           {
-            "id": "ad581f755f32e251",
+            "id": "54a244321a4a7f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/02_Conceptos_IA/Tokenización.md",
+                "file": "CE1116/03_Conceptos_Nube/IaaS vs PaaS vs SaaS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tokenización"
+              "title": "IaaS vs PaaS vs SaaS"
             }
           },
           {
-            "id": "68a9f46be2103fd7",
+            "id": "3d1dbf4401846755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/02_Conceptos_IA/Mecanismo de Atención.md",
+                "file": "CE1116/03_Conceptos_Nube/Redundante localmente en el cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mecanismo de Atención"
+              "title": "Redundante localmente en el cloud"
             }
           },
           {
-            "id": "cced3fbf6b34805f",
+            "id": "db1d91c3d7837037",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/02_Conceptos_IA/Ventana de Contexto.md",
+                "file": "CE1116/03_Conceptos_Nube/Redundante en zona en el cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ventana de Contexto"
+              "title": "Redundante en zona en el cloud"
             }
           },
           {
-            "id": "a8aec8d685e32b44",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "8ee79ba50f8da2d1",
+            "id": "6d6f0dfa1261e5f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/00_Inbox/Stakeholder.md",
+                "file": "CE1116/03_Conceptos_Nube/Virtual Private Cloud (VPC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stakeholder"
-            }
-          },
-          {
-            "id": "03540d0d97f577ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Stakeholder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stakeholder"
-            }
-          },
-          {
-            "id": "94ea51ae45390e6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Requerimientos de Sistema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Requerimientos de Sistema"
-            }
-          },
-          {
-            "id": "facb77e9e9449d07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Requerimientos Funcionales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Requerimientos Funcionales"
-            }
-          },
-          {
-            "id": "564d79087947e9b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Requerimientos No Funcionales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Requerimientos No Funcionales"
-            }
-          },
-          {
-            "id": "05b66ca11bd5b6e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Filosofía Ágil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Filosofía Ágil"
-            }
-          },
-          {
-            "id": "6d6f70757c4fc976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Stakeholder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stakeholder"
-            }
-          },
-          {
-            "id": "0782895414fce384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Product Backlog.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Product Backlog"
-            }
-          },
-          {
-            "id": "17806a724feb0aa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Sprint Backlog.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sprint Backlog"
-            }
-          },
-          {
-            "id": "371b4ec729e5e76e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Velocity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Velocity"
-            }
-          },
-          {
-            "id": "ff2a622a77ab1301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Story Points.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Story Points"
-            }
-          },
-          {
-            "id": "0315e1bc00de4f8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Planning Poker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Planning Poker"
-            }
-          },
-          {
-            "id": "441eb73105cb2c07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Product Owner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Product Owner"
-            }
-          },
-          {
-            "id": "217cc3e9bfd328ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejemplo Nueva Nota"
-            }
-          },
-          {
-            "id": "936a3a06fe8e23a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/User Story.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "User Story"
-            }
-          },
-          {
-            "id": "c15a55928fd0e049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Definition of Done (DoD).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Definition of Done (DoD)"
-            }
-          },
-          {
-            "id": "411465e9fc523a0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Sprint Planning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sprint Planning"
-            }
-          },
-          {
-            "id": "b9c34a30603c81b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Definition of Done (DoD).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Definition of Done (DoD)"
+              "title": "Virtual Private Cloud (VPC)"
             }
           }
         ],
@@ -545,34 +297,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8aec8d685e32b44",
+  "active": "6d6f0dfa1261e5f2",
   "lastOpenFiles": [
+    "CE1116/03_Conceptos_Nube/Redundante localmente en el cloud.md",
+    "CE1116/03_Conceptos_Nube/Redundante geo-redundante en el cloud.md",
+    "CE1116/03_Conceptos_Nube/Redundante en zona en el cloud.md",
+    "CE1116/03_Conceptos_Nube/IaaS vs PaaS vs SaaS.md",
+    "CE1116/03_Conceptos_Nube/Escalamiento horizontal y vertical en el cloud.md",
+    "CE1116/03_Conceptos_Nube/Cloud Público.md",
+    "CE1116/03_Conceptos_Nube/Cloud Híbrido (Hybrid Cloud).md",
+    "CE1116/03_Conceptos_Nube/Virtual Private Cloud (VPC).md",
     "CE1116/02_Conceptos_IA/Ventana de Contexto.md",
+    "README.md",
+    "CE1116/01_Principios_de_Modelado/Velocity.md",
     "CE1116/02_Conceptos_IA/Tokenización.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
+    "CE1116/02_Conceptos_IA/Arquitectura Transformer.md",
+    "CE1116/02_Conceptos_IA/Alucinaciones.md",
+    "CE1116/03_Conceptos_Nube",
     "CE1116/02_Conceptos_IA/Redes Neuronales.md",
     "CE1116/02_Conceptos_IA/Mecanismo de Atención.md",
     "CE1116/02_Conceptos_IA/Función de Activación.md",
     "CE1116/02_Conceptos_IA/Embeddings.md",
-    "CE1116/02_Conceptos_IA/Arquitectura Transformer.md",
-    "CE1116/02_Conceptos_IA/Alucinaciones.md",
     "CE1116/01_Principios_de_Modelado/Filosofía Ágil.md",
-    "CE1116/01_Principios_de_Modelado/Velocity.md",
     "CE1116/01_Principios_de_Modelado/User Story.md",
     "CE1116/01_Principios_de_Modelado/Taskboard.md",
     "CE1116/01_Principios_de_Modelado/Story Points.md",
     "CE1116/01_Principios_de_Modelado/Stakeholder.md",
     "CE1116/01_Principios_de_Modelado/Sprint Planning.md",
     "CE1116/01_Principios_de_Modelado/Sprint Backlog.md",
-    "CE1116/01_Principios_de_Modelado/Scrum.md",
-    "CE1116/01_Principios_de_Modelado/Requerimientos No Funcionales.md",
-    "CE1116/01_Principios_de_Modelado/Requerimientos Funcionales.md",
-    "CE1116/01_Principios_de_Modelado/Requerimientos de Sistema.md",
-    "CE1116/01_Principios_de_Modelado/Requerimientos de Negocio.md",
-    "CE1116/01_Principios_de_Modelado/Pruebas Funcionales.md",
-    "CE1116/01_Principios_de_Modelado/Product Owner.md",
-    "CE1116/01_Principios_de_Modelado/Product Backlog.md",
-    "CE1116/01_Principios_de_Modelado/Planning Poker.md",
-    "CE1116/01_Principios_de_Modelado/Definition of Done (DoD).md",
     "CE1116/02_Conceptos_IA",
     "CE1116/01_Principios_de_Modelado",
     "CE1116/08_Templates",
@@ -582,7 +335,6 @@
     "CE1116/04_Implementación",
     "CE1116/03_Arquitectura y Diseño",
     "CE1116/02_Requirimientos",
-    "CE1116/01_Procesos de Desarrollo",
     "Untitled.canvas"
   ]
 }
